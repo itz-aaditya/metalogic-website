@@ -30,18 +30,16 @@ The site features a modern, responsive design with dark mode support and interac
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/itz-aaditya/metalogic-website
 
-### Navigate into the project directory:
-cd your-repo-name
+2. Navigate into the project directory:
+   ```bash
+   cd your-repo-name
 
-### Navigate into the project directory:
-npm install
-# or
-yarn install
+3. Run the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
 
 
-### Run the development server
-npm run dev
-# or
-yarn dev
